@@ -1,6 +1,7 @@
 <h1 align="center"> < dorany.dev /></h1>
 <h3 align="center">Oi! Sou designer, fotógrafa, meia publicitária e muito curiosa.
- Apaixonada pelo mundo dos negócios e gestão, viciada em aprender e dividir, minimalista praticante. 
+
+Apaixonada pelo mundo dos negócios e gestão, viciada em aprender e dividir, minimalista praticante. 
  
  
 👩💻O Home office é minha maior conquista.
