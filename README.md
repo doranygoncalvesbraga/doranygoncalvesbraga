@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm < Dorany /></h1>
 <h3 align="center">Oi! Sou designer, fotógrafa, meia publicitária e muito curiosa.
  Apaixonada pelo mundo dos negócios e gestão, viciada em aprender e dividir, minimalista praticante. 
-  
+ 
+ 
 👩💻O Home office é minha maior conquista.
   
 Atualmente agregando a área de desenvolvimento full stack as minhas habilidades para uma reestruturação de carreira.</h3>
