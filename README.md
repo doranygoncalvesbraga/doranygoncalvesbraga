@@ -4,7 +4,7 @@
  
  
 👩💻O Home office é minha maior conquista.
-  
+
 Atualmente agregando a área de desenvolvimento full stack as minhas habilidades para uma reestruturação de carreira.</h3>
 
 <h3 align="left">Me acompanhe no LinKedin:</h3>
