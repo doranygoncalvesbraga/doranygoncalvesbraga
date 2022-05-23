@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm < Dorany /></h1>
+<h1 align="center"> < dorany.dev /></h1>
 <h3 align="center">Oi! Sou designer, fotógrafa, meia publicitária e muito curiosa.
  Apaixonada pelo mundo dos negócios e gestão, viciada em aprender e dividir, minimalista praticante. 
  
