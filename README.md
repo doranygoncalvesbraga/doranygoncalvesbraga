@@ -1,12 +1,10 @@
 <h1 align="center"> < dorany.dev /></h1>
-<h3 align="center">Oi! Sou designer, fotógrafa, meia publicitária e muito curiosa.
+<h3 align="center">
 
 Apaixonada pelo mundo dos negócios e gestão, viciada em aprender e dividir, minimalista praticante. 
  
  
-👩💻O Home office é minha maior conquista.
-
-Atualmente agregando a área de desenvolvimento full stack as minhas habilidades para uma reestruturação de carreira.</h3>
+</h3>
 
 <h3 align="left">Me acompanhe no LinKedin:</h3>
 <p align="left">
